@@ -19,4 +19,4 @@ jobs:
       - name: Setup dependencies and test
         run: |
           npm install
-          npm run ci:tes
+          npm run ci:test
